@@ -1,3 +1,3 @@
-import {startAnimate} from './game';
+import {startAnimate} from './game.js';
 
 startAnimate();
